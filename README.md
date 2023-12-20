@@ -4,9 +4,9 @@ Seguindo o exemplo do algoritmo de binarização apresentado em nossa última au
 Antes de rodar o sistema pip install requirements.txt para instalar as bibliotecas necessária.
 
 Resultado:
-Imagem original
+<H2>Imagem original</H2>
+<img src ='lance.jpg'>
+<H2>Imagem em tons de cinza</H2>
+<img src ='imagem_tons_de_cinza.jpg'>
+<H2>Imagem Binarizada</H2>
 <img src ='imagem_binarizada.jpg'>
-Imagem em tons de cinza
-D:\A1-Leandro\Pessoal\DIO\Desafio2\Desafio_dio\imagem_tons_de_cinza.jpg
-Imagem Binarizada
-D:\A1-Leandro\Pessoal\DIO\Desafio2\Desafio_dio\imagem_binarizada.jpg
