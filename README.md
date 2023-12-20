@@ -5,7 +5,7 @@ Antes de rodar o sistema pip install requirements.txt para instalar as bibliotec
 
 Resultado:
 Imagem original
-D:\A1-Leandro\Pessoal\DIO\Desafio2\Desafio_dio\lance.jpg
+<img src ='D:\A1-Leandro\Pessoal\DIO\Desafio2\Desafio_dio\lance.jpg'>
 Imagem em tons de cinza
 D:\A1-Leandro\Pessoal\DIO\Desafio2\Desafio_dio\imagem_tons_de_cinza.jpg
 Imagem Binarizada
